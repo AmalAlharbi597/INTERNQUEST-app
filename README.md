@@ -5,7 +5,9 @@ In Saudi Arabia, companies seek to attract talent by offering diverse internship
 
 Goals :
 Simplify the process of finding internships for students.
+
 Help companies connect with talented candidates efficiently.
+
 Build a platform that fosters seamless communication and connections between students and companies.
  
 Project Overview: Internship Application Development
